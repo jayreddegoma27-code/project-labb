@@ -12,5 +12,6 @@ int main() {
     printf("Weight: %lf\n", weight);
     
     printf("sample added code");
+    printf("sample code for dev branch");
     return 0;
 }
