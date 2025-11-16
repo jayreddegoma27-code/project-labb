@@ -11,5 +11,6 @@ int main() {
     printf("Height: %f\n", height);
     printf("Weight: %lf\n", weight);
     
+    printf("sample added code");
     return 0;
 }
